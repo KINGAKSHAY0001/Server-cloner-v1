@@ -1,9 +1,9 @@
-# 💠 Rock V1 - Discord Server Cloner
+# 💠 Akshay V1 - Discord Server Cloner
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Discord Selfbot](https://img.shields.io/badge/Discord%20Selfbot-%237289DA?style=for-the-badge&logo=discord)](https://discord.com)
 
-> **Welcome to Rock V1 - Discord Server Cloner**
+> **Welcome to Akshay V1 - Discord Server Cloner**
 
 This tool allows you to effortlessly **clone a Discord server's structure** from one server to another.
 
@@ -53,5 +53,5 @@ pip install -r requirements.txt
 ---
 
 > ### 👤 Author  
-> Made with ❤️ by **DEVROCK**
+> Made with ❤️ by **Akshay**
 
